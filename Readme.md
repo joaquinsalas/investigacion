@@ -13,7 +13,7 @@ Junio 2020
 * Doctorado</br>
   * Alejandro Gómez Garay: </br>
   * *Omar Alfonso Montoya Chávez.*   [Censado Automático Forestal a través de Fusión de Structure from Motion y LiDAR:](https://drive.google.com/file/d/1fMPJczi4lddpnNQwI-atK4Ze7XoKjro6/view?usp=sharing) En su trabajo, Omar presenta una estrategia para detectar árboles en un bosque caducifólico mediante fotogrametría. Su trabajo permite detectar árboles individuales. Trabajo supervisado en conjunto con *Octavio Icasio*.</br>
-  * *Dagoberto Pulido Arias.* [Determinación de Carbono Forestal utlizando Vehículos Aéreos no Tripulados:]https://youtu.be/nmhZbzEvVT0 En su trabajo, Dagoberto propone la utlización de un simulador como plataforma que permita el entrenamiento para la navegación de vehículos aéreos no tripulados que pudieran viajar por enmedio del bosco, bajo la copa de los árboles, y estimar en el proceso el cárbono forestal.</br>
+  * *Dagoberto Pulido Arias.* [Determinación de Carbono Forestal utlizando Vehículos Aéreos no Tripulados:](https://youtu.be/nmhZbzEvVT0) En su trabajo, Dagoberto propone la utlización de un simulador como plataforma que permita el entrenamiento para la navegación de vehículos aéreos no tripulados que pudieran viajar por enmedio del bosco, bajo la copa de los árboles, y estimar en el proceso el cárbono forestal.</br>
   * *Charles Fernando Velázquez Dodge*. [Detección de Comunidades Vulnerables desde  Imágenes Satelitales](https://www.youtube.com/watch?v=bKCQGqjvSeg). En este trabajo, Charles propone desarrollar un mapeo entre imágenes satelitales e índices de marginación. De esta forma, podría mantenerse una evaluación frecuente que pudiera orientar políticas públicas.</br>
   * Pablo Vera Alfaro: </br>
 
