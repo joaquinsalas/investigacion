@@ -6,7 +6,7 @@ Este es un recuento del trabajo semestral de estudiantes del Posgrado en Tecnolo
 Junio 2020
 
 * Maestría </br>
-  * *Daniela Basurto Lozada*. [Caracterización de la Dinámica de la Temperatura del Suelo y sus Usos:](https://correoipn-my.sharepoint.com/:b:/g/personal/dbasurtol1900_alumno_ipn_mx/EXBZHgsP3N1OgoPTJUkzMA0B0ScCWkpDgQKoHyr2Y5nxjQ?e=MSxFMH) En este trabajo, Daniela mide la temperatura del suelo a través del día y con ello concluye propiedades del suelo que afectan la productividad agrícola. </br>
+  * *Daniela Basurto Lozada*. [Caracterización de la Dinámica de la Temperatura del Suelo y sus Usos:](https://correoipn-my.sharepoint.com/:v:/g/personal/dbasurtol1900_alumno_ipn_mx/EZhNCdnvlYNDphexs7S8hPwB8hNIe_0KhDzYTMLS20nEfg?e=wMU32L) En este trabajo, Daniela mide la temperatura del suelo a través del día y con ello concluye propiedades del suelo que afectan la productividad agrícola. </br>
   * *Mayra Karina Cándido Mireles*: [Detección de Enfermedad en Campos Vitivinícolas:](https://drive.google.com/file/d/1SqOUsEKJzYtSvgNEtg-FyFHbPfqXjfXr/view?usp=sharing) En su trabajo, Mayra busca focalizar la atención de análisis microbiológico mediante la reducción del espacio de búsqueda que puede brindar el sensado remoto. Vehículos aéreos no tripulados inspeccionan un campo agrícola y proporcionan pistas sobre donde enfocar el muestreo y sequenciación molecular. Trabajo supervisado en conjunto con *Regina Hernández*</br>
   * *David Medina Zepeda.*  [Monitoreo de Jales Mineros:](https://youtu.be/wWUHoUSQT74) En su trabajo, David busca determinar el cambio volumétrico de jales mineros en el tiempo mediante el uso de cámaras multiespectrales montadas en vehículos aéreos no tripulados. Trabajo supervisado en conjunto con *Norma Rojas*.</br>
 
